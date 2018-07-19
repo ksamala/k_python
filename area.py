@@ -12,4 +12,4 @@ def compute(lnth, brth):
 while True:
     ln, br = gather_details()
     area = compute(ln, br)
-    print(f"area is {area}")
+    print(f"Area is {area}")
