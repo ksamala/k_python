@@ -1,6 +1,6 @@
 def gather_details():
     lnt = int(input("Enter length"))
-    brt = int(input("enter breadth"))
+    brt = int(input("Enter breadth"))
     return (lnt, brt)
     
 
