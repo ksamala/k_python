@@ -1,3 +1,5 @@
+# Get system resources
+
 import os
 import platform
 a = platform.machine()

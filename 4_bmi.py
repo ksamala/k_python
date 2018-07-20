@@ -1,4 +1,5 @@
-#Body to mass ratio
+#Body to mass ratio using functions
+
 def gather_info(): 
     height = float(input("What is your height? (inches or meters) "))
     weight = float(input("What is your weight? (pounds or kilograms) "))

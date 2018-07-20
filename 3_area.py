@@ -1,3 +1,5 @@
+# Use functions to caluculate area
+
 def gather_details():
     lnt = int(input("Enter length"))
     brt = int(input("Enter breadth"))

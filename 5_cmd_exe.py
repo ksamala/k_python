@@ -1,3 +1,5 @@
+# Execute a command on a shell remotely
+
 import subprocess
 proc = subprocess.run(['ls', '-l'])
 
