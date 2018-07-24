@@ -10,3 +10,5 @@ print(y)
 myfile.seek(0)
 z = myfile.readlines()
 print(z)
+
+myfile.close() # Close file you opened, if some process tires to delete file, Python gives error, file being used.

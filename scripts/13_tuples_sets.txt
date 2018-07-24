@@ -1,0 +1,7 @@
+# Tuples
+
+Similar to lists, difference is can't add a element. Size is fixed. 
+s = (a, b) # useful when declaring parameters for a menthod.
+
+# Sets: 
+# Sets are very similar to lists, only difference is it makes note of only unique values. 
